@@ -1,0 +1,61 @@
+body {
+    font-size: large;
+    background: #d8d8d8;
+    font-family: Montserrat;
+}
+
+table { 
+    border-collapse: collapse; 
+    text-align: center;
+}
+
+td, th {
+    padding: 8px;
+    border: 1px solid black; 
+}
+
+th {
+    background: #999999;
+}
+
+textarea {
+    padding: 10px;
+    resize: none;
+}
+
+select {
+    width: 125px;
+    padding: 10px;
+    text-align: center;
+    font-size: large;
+}
+
+.column-item {
+    padding: 10px 0 10px 0;
+}
+
+.abilities {
+    text-align: left;
+}
+
+.input {
+    padding: 10px;
+    width: 200px;
+    font-size: medium;
+}
+
+caption {
+    padding: 25px;
+}
+
+.msgbox {
+    padding: 10px 0px 25px 10px;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+.btn {
+    padding: 3px;
+}
